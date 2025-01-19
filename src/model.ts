@@ -3,3 +3,14 @@ export interface Todo{
     todo:string;
     isDone:boolean;
 }
+import React from 'react'
+
+const model = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default model
